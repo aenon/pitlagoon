@@ -3,7 +3,6 @@ Thumbs.db
 db.json
 debug.log
 node_modules/
-public/
 output/
 .deploy/
 themes/
